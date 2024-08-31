@@ -11,5 +11,5 @@ Third Page "Protein Penetration": In this page I have given details of protein p
 
 Fourth page "Protein consumption": In this page I have g8ven details about protein consumption like how many protein supplements you consume in single serve and how many units protein bars you consumed etc.
 
-Fifth page "Protein spends": In this page I have given details about frequency of purchase and spending on protein powder.
+Fifth page "Protein spends": In this page I have given details about frequency of purchase,spending on protein powder and brand supplements purchased.
 
