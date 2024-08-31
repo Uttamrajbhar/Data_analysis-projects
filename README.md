@@ -1,15 +1,22 @@
 Protein Study Report:
 https://app.powerbi.com/view?r=eyJrIjoiZmE3ODcwMGQtMWFlNy00ZGE1LWE5ZjctYjlkOWViYWRjN2Q0IiwidCI6ImQ0YmJiOTZkLTc2ZTYtNDcxYy1hMzBmLWQzMmQ4OTIxMGYxOSJ9
 
-The project related to protein consumption And it is a surveyed data.I have created 5 page of reports.
+Protein Study Report Overview
 
-First Page "Quota": This page indicates the comparision of sample(Target) and Achieved(Interview taken) by breakups.
+I have developed a comprehensive 5-page Power BI report based on surveyed data related to protein consumption. Below is a summary of each page within the report:
 
-Second Page "Demographic": In this page I have given a details about center,zone,gender,age group.I have given breakup of income according to center,zone,gender,age group.I have used bookmarks here for button and selection panel for show data accordingly.
+Quota Analysis:
+This page presents a comparison between the target sample size and the actual number of interviews conducted. The data is segmented by various demographic breakups, providing insights into the representativeness of the achieved sample relative to the intended targets.
 
-Third Page "Protein Penetration": In this page I have given details of protein power awareness.
+Demographics:
+This page provides detailed demographic breakdowns, including center, zone, gender, and age group distributions. Additionally, income levels are analyzed across these demographic segments. Interactive features such as bookmarks and a selection panel are utilized to allow users to filter and view data according to specific criteria.
 
-Fourth page "Protein consumption": In this page I have g8ven details about protein consumption like how many protein supplements you consume in single serve and how many units protein bars you consumed etc.
+Protein Penetration:
+This section focuses on protein powder awareness among the surveyed population. It provides insights into how well-known protein supplements are across different demographic segments, helping to identify potential gaps in market awareness.
 
-Fifth page "Protein spends": In this page I have given details about frequency of purchase,spending on protein powder and brand supplements purchased.
+Protein Consumption:
+Here, the report delves into actual protein consumption habits. It details the quantity of protein supplements consumed per serving, the frequency of consumption, and the types of protein products used, such as protein bars.
+
+Protein Spending:
+The final page analyzes spending patterns on protein products. It includes data on purchase frequency, the amount spent on protein powders, and the preferred brands among consumers. This section provides a comprehensive view of consumer behavior in the protein supplement market.
 
