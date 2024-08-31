@@ -9,7 +9,7 @@ Quota Analysis:
 This page presents a comparison between the target sample size and the actual number of interviews conducted. The data is segmented by various demographic breakups, providing insights into the representativeness of the achieved sample relative to the intended targets.
 
 Demographics:
-This page provides detailed demographic breakdowns, including center, zone, gender, and age group distributions. Additionally, income levels are analyzed across these demographic segments. Interactive features such as bookmarks and a selection panel are utilized to allow users to filter and view data according to specific criteria.
+This page provides detailed demographic breakdowns, including center, zone, gender, and age group distributions. Additionally, income levels are analyzed across these demographic segments.
 
 Protein Penetration:
 This section focuses on protein powder awareness among the surveyed population. It provides insights into how well-known protein supplements are across different demographic segments, helping to identify potential gaps in market awareness.
